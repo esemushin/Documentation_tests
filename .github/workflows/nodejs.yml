@@ -1,4 +1,4 @@
-name: Documentation CI
+name: Documentation CI Test
 on:
   push:
     branches:
